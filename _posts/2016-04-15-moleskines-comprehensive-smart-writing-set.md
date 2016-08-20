@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T09:31:39.081Z'
+datePublished: '2016-08-20T09:43:10.413Z'
 sourcePath: _posts/2016-04-15-moleskines-comprehensive-smart-writing-set.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/moleskine-smart-writing-set'
@@ -17,8 +17,9 @@ keywords:
   - pages
 related: []
 author: []
-dateModified: '2016-08-20T09:31:38.730Z'
-title: Moleskine's Comprehensive Smart Writing Set
+via: {}
+dateModified: '2016-08-20T09:43:09.351Z'
+title: Recording Solution for Android Phone
 app_links: []
 publisher:
   url: 'http://www.coolhunting.com'
@@ -26,16 +27,16 @@ publisher:
   favicon: 'http://assets.coolhunting.com/favicon.ico'
   domain: www.coolhunting.com
 description: >-
-  At a conference on productivity-which touched on everything from the
-  importance of tech-free alone time to the educational and emotional benefits
-  of writing by hand (as outlined in a series of studies on the subject)-
-  Moleskine unveiled their latest analog-to-digital wonder.
+  Calls are automatically recorder. Calls are recorded only within the memory
+  space that you define. The app, automatically, manages your phone memory space
+  during recording. Important calls can be saved. Recording can be move from the
+  phone to the microSD card. Calls can also be recorded directly onto the
+  microSD card. Recording can be send to the cloud. No ads! 
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Moleskine's Comprehensive Smart Writing Set</h1><p>At a conference on productivity-which touched on everything from the importance of tech-free alone time to the educational and emotional benefits of writing by hand (as outlined in a series of studies on the subject)- Moleskine unveiled their latest analog-to-digital wonder.</p><img src="http://assets.coolhunting.com/coolhunting/2016/04/06/large_Moleskine-Smart-Set-Thumb.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88246302c4146bab7671eb9fd40a7ff184af1b48.jpg" /><h1>Recording Solution for Android Phone</h1><p>Calls are automatically recorder. Calls are recorded only within the memory space that you define. The app, automatically, manages your phone memory space during recording. Important calls can be saved. Recording can be move from the phone to the microSD card. Calls can also be recorded directly onto the microSD card. Recording can be send to the cloud. No ads! </p></article>
