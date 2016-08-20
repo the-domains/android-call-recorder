@@ -1,16 +1,16 @@
-typography_spectrum: 0.20654356619343162
+layout_spectrum: 0.651646321406588
+typography_spectrum: 0.26953120762482285
 color:
-  brandStrength: 0.12332968972623348
-  lightness: 0.5440772918518633
-  saturation: 0.5688465256243944
-  rhythmicContrast: 0.1978009974118322
+  brandStrength: 0.5526046578306705
+  lightness: 0.3988915232475847
+  saturation: 0.9585263060871512
+  rhythmicContrast: 0.06942577916197479
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-layout_spectrum: 0.5582898824941367
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Android Call Recorder
 title: Recorder 4 Android
 description: Smart App for Calls Management
