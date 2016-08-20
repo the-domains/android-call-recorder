@@ -1,0 +1,14 @@
+layout_spectrum: 0.5582898824941367
+typography_spectrum: 0.20654356619343162
+color:
+  brandStrength: 0.12332968972623348
+  lightness: 0.5440772918518633
+  saturation: 0.5688465256243944
+  rhythmicContrast: 0.1978009974118322
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Android Call Recorder
